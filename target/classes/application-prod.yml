@@ -1,0 +1,4 @@
+spring:
+  mail:
+    username: ${PROD_MAIL_USERNAME}
+    password: ${PROD_MAIL_PASSWORD}

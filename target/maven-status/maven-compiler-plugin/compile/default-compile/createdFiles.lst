@@ -1,1 +1,4 @@
+com/cleaning/mintybackend/config/MailConfig.class
 com/cleaning/mintybackend/MintyBackendApplication.class
+com/cleaning/mintybackend/pojo/MailRequest.class
+com/cleaning/mintybackend/controllers/MailController.class

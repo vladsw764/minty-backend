@@ -1,1 +1,4 @@
 /Users/vladislav/Documents/minty-backend/src/main/java/com/cleaning/mintybackend/MintyBackendApplication.java
+/Users/vladislav/Documents/minty-backend/src/main/java/com/cleaning/mintybackend/pojo/MailRequest.java
+/Users/vladislav/Documents/minty-backend/src/main/java/com/cleaning/mintybackend/config/MailConfig.java
+/Users/vladislav/Documents/minty-backend/src/main/java/com/cleaning/mintybackend/controllers/MailController.java
