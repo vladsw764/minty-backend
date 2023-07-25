@@ -6,3 +6,6 @@ services:
         context: ./
         dockerfile: "Dockerfile"
       container_name: minty-app
+      environment:
+        - SPRING_MAIL_USERNAME=${PROD_MAIL_USERNAME}
+        - SPRING_MAIL_PASSWORD=${PROD_MAIL_PASSWORD}
