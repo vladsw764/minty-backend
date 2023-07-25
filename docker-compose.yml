@@ -1,11 +1,11 @@
-version: "3.8"
-
-services:
-  minty-back:
-      build:
-        context: ./
-        dockerfile: "Dockerfile"
-      container_name: minty-app
-      environment:
-        - SPRING_MAIL_USERNAME=${PROD_MAIL_USERNAME}
-        - SPRING_MAIL_PASSWORD=${PROD_MAIL_PASSWORD}
+#version: "3.8"
+#
+#services:
+#  minty-back:
+#      build:
+#        context: ./
+#        dockerfile: "Dockerfile"
+#      container_name: minty-app
+#      environment:
+#        - SPRING_MAIL_USERNAME=${PROD_MAIL_USERNAME}
+#        - SPRING_MAIL_PASSWORD=${PROD_MAIL_PASSWORD}
